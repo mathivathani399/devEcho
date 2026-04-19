@@ -1,0 +1,12 @@
+torch
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+sentence-transformers
+faiss-cpu
+gradio
+PyGithub
+google-generativeai
+python-dotenv
